@@ -1,0 +1,14 @@
+[
+  {
+    "label": "贪吃蛇游戏",
+    "name": "GreedySnake",
+    "pic": "1.png",
+    "index": "index.html"
+  },
+  {
+    "label": "迷宫",
+    "name": "Maze",
+    "pic": "1.png",
+    "index": "index.html"
+  }
+]
